@@ -1,0 +1,13 @@
+{
+  "name": "5 Minuten Talks - 29.7.2015",
+  "description": "",
+  "author": "Michael Lihs",
+  "pause_msg": "Paused",
+  "sections": [
+    {"section":"01_title"},
+    {"section":"02_twisted"},
+    {"section":"03_gitlab"},
+    {"section":"04_showoff"},
+    {"section":"99_resources"}
+  ]
+}
